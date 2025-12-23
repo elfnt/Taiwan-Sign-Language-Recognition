@@ -21,6 +21,8 @@ pip install -r requirements.txt
 
     Place all raw sign language videos into the same directory (the working directory or the directory specified inside the scripts).
     
+    Or you can find our videos here: [Link](https://drive.google.com/drive/folders/1Gx0JUWA-EwP-6VC8IdZFmPRf0ocS75oi?usp=drive_link)
+    
 2. Video Preprocessing
 
     Run the preprocessing script to standardize videos (e.g., resizing, trimming, format unification)
